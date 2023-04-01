@@ -1,3 +1,5 @@
+Tensor v2
+
 Text Classification
 -------------------------------------------------------------------------
 The purpose of this repository is to explore text classification methods in NLP with deep learning.
